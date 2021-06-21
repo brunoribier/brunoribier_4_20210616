@@ -727,7 +727,21 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #FFFFFF;
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+}
+
+.quote {
+    font-size: 1.4em;
+    color: #000000;
+}
+
+.real {
+    font-size: 1.7em;
 }
 
 .icons {
