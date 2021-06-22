@@ -676,10 +676,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -704,6 +700,18 @@ p {
     margin: auto auto auto auto;
 }
 
+
+
+.med-width-whitespace {
+    max-width: 800px;
+    margin: auto auto auto auto;
+    box-shadow: 0px 0px 0px #000000;
+}
+
+h1 {
+    color: #333333!important;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -713,16 +721,6 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
-}
-
-.med-width-whitespace {
-    max-width: 800px;
-    margin: auto auto auto auto;
-    box-shadow: 0px 0px 0px #000000;
-}
-
-h1 {
     color: #333333!important;
 }
 
@@ -742,6 +740,10 @@ p {
 
 .real {
     font-size: 1.7em;
+}
+
+.bigger {
+    font-size: 1.2em;
 }
 
 .icons {
@@ -766,8 +768,8 @@ p {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
-.black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+.orange-background {
+    background-color: #F3976C;
     padding: 40px 40px 40px 40px;
 }
 
